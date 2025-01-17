@@ -91,8 +91,9 @@ completed the readings.
 
 | Abbrevation | Source                                                                                        |
 |-------------|-----------------------------------------------------------------------------------------------|
-| [GDA][gda]  | Tenkanen, H., V. Heikinheimo, D. Whipp (2023) Python for Geographic Data Analysis. CRC Press. |
-| [GDS][gds]  | Rey, S.J., D. Arribas-Bel, L.J. Wolf (2023) Geographic Data Science with Python. CRC Press.   |
+| [RAW][gds]  | Rey, S.J., D. Arribas-Bel, L.J. Wolf (2023) Geographic Data Science with Python. CRC Press.   |
+| [THW][gda]  | Tenkanen, H., V. Heikinheimo, D. Whipp (2023) Python for Geographic Data Analysis. CRC Press. |
+
 
 
 ## Schedule (Planned)
@@ -136,43 +137,64 @@ completed the readings.
 | 17   | 12-18 | Final Presentations (1-3pm)         |                   | Computational Notebook                              |
 -->
 
-|         Week | Date  | Topic                                  | Readings | Exercise  |         Quiz |
-|-------------:|:------|:---------------------------------------|:---------|-----------|-------------:|
-|            1 | 01-21 | Introduction                           |          |           |              |
-|              | 01-23 | Computational Resources                |          |           | Prerequisite |
-|            2 | 01-28 | Exploratory Spatial Data  Analysis     |          | One out   |            1 |
-|              | 01-30 | Spatial Data Models                    |          |           |              |
-|            3 | 02-04 | Coordinate Reference Systems           |          |           |            2 |
-|              | 02-06 | Distances                              |          |           |              |
-|            4 | 02-11 | Proximity Relations                    |          |           |            3 |
-|              | 02-13 | Spatial Graphs                         |          |           |              |
-|            5 | 02-18 | Visualization                          |          | One due   |            4 |
-|              | 02-20 | Geovisualization                       |          | Two out   |              |
-|            6 | 02-25 | Classification Schemes                 |          |           |            5 |
-|              | 02-27 | Choropleth Mapping                     |          |           |              |
-|            7 | 03-04 | Point Pattern Visualization            |          |           |            6 |
-|              | 03-06 | Heat Maps                              |          |           |              |
-|            8 | 03-11 | Spatial Autocorrelation                |          | Two due   |            7 |
-|              | 03-13 | *Exam 1*                               |          |           |              |
-|            9 | 03-18 | Global Autocorrelation                 |          | Three out |            8 |
-|              | 03-20 | Global Autocorrelation Tests           |          |           |              |
-|           10 | 03-25 | Local Autocorrelation                  |          |           |            9 |
-|              | 03-27 | Local Autocorrelation Tests            |          |           |              |
-| Spring Break | 03-31 |                                        |          |           |              |
-|           11 | 04-08 | Nearest Neighbor Relations             |          |           |           10 |
-|              | 04-10 | Nearest Neighbor Tests                 |          |           |              |
-|           12 | 04-15 | Nearest Neighbor Distances             |          | Three due |           11 |
-|              | 04-17 | Distance Based Tests                   |          | Four out  |              |
-|           13 | 04-22 | Clustering Point Patterns              |          |           |           12 |
-|              | 04-24 |                                        |          |           |              |
-|           14 | 04-29 | Integration of Points and Polygon Data |          |           |           13 |
-|              | 05-01 |                                        |          |           |              |
-|           15 | 05-06 | Change of Support                      |          |           |           14 |
-|              | 05-08 |                                        |          | Four due  |              |
-|              | 05-13 | *Exam 2 (1pm)*                         |          |           |              |
+|         Week | Date  | Topic                              | Readings                | Exercise  |         Quiz |
+|-------------:|:------|:-----------------------------------|:------------------------|-----------|-------------:|
+|            1 | 01-21 | Introduction                       |                         |           |              |
+|              | 01-23 | Computational Resources            | [RAW 2][gds2], [JL][jl] |           | Prerequisite |
+|            2 | 01-28 | Exploratory Spatial Data  Analysis | [RAW 1][gds1]           | One out   |            1 |
+|              | 01-30 | Spatial Data Models                | [RAW 3][gds3]           |           |              |
+|            3 | 02-04 | Coordinate Reference Systems       | [THW 5.3][gda53]        |           |            2 |
+|              | 02-06 | Distances                          | [CA21][smdistance]      |           |              |
+|            4 | 02-11 | Proximity Relations                | [RAW 4][gds4]           |           |            3 |
+|              | 02-13 | Spatial Graphs                     | [RAW 4][gds4]           |           |              |
+|            5 | 02-18 | Visualization                      | [VIZ][VIZ]              | One due   |            4 |
+|              | 02-20 | Geovisualization                   | [BOKGV][bokgv]          | Two out   |              |
+|            6 | 02-25 | Classification Schemes             | [RAW 5][gds5]           |           |            5 |
+|              | 02-27 | Choropleth Mapping                 | [RAW 5][gds5]           |           |              |
+|            7 | 03-04 | Point Pattern Visualization        | [DABVPP][dabvpp]        |           |            6 |
+|              | 03-06 | Kernel Density Estimation          | [DABVPP][dabvpp]        |           |            7 |
+|            8 | 03-11 | Review                             |                         | Two due   |              |
+|              | 03-13 | *Exam 1*                           |                         |           |              |
+|            9 | 03-18 | Global Autocorrelation             | [RAW 6][gds6]           | Three out |            8 |
+|              | 03-20 | Global Autocorrelation Tests       | [RAW 6][gds6]           |           |              |
+|           10 | 03-25 | Local Autocorrelation              | [RAW 7][gds7]           |           |            9 |
+|              | 03-27 | Local Autocorrelation Tests        | [RAW 7][gds7]           |           |              |
+| Spring Break | 03-31 |                                    |                         |           |              |
+|           11 | 04-08 | Nearest Neighbor Relations         | [RAW 8][gds8]           |           |           10 |
+|              | 04-10 | Nearest Neighbor Tests             | [RAW 8][gds8]           |           |              |
+|           12 | 04-15 | Nearest Neighbor Distances         | [RAW 8][gds8]           | Three due |           11 |
+|              | 04-17 | Distance Based Tests               | [RAW 8][gds8]           | Four out  |              |
+|           13 | 04-22 | Clustering Point Patterns          | [DABPC][dabpc]          |           |           12 |
+|              | 04-24 | Regionalization                    | [RAW 10][gds10]         |           |              |
+|           14 | 04-29 | Interpolation Point Based          | [DS6.6][ds66]           | 13        |           13 |
+|              | 05-01 | Kriging                            | [DS6.7][ds67]           |           |              |
+|           15 | 05-06 | Interpolation Area Based           | [DS4.2][ds42]           |           |           14 |
+|              | 05-08 | Review                             |                         | Four due  |              |
+|              | 05-13 | *Exam 2 (1pm)*                     |                         |           |              |
 
 
 
+
+[jl]: https://jupyterlab.readthedocs.io/en/stable/user/interface.html
+[gds1]: https://geographicdata.science/book/intro.html
+[gds2]: https://geographicdata.science/book/notebooks/02_geospatial_computational_environment.html#
+[gds3]: https://geographicdata.science/book/notebooks/03_spatial_data.html
+[gda53]: https://pythongis.org/part2/chapter-05/nb/02-introduction-to-coordinate-reference-systems.html#
+[smdistance]: https://storymaps.arcgis.com/stories/ad3f3984f4d54a5982429d29421d1627
+[gds4]: https://geographicdata.science/book/notebooks/04_spatial_weights.html
+[VIZ]: https://guides.library.jhu.edu/datavisualization/home#s-lg-box-25364137
+[bokgv]: https://gistbok-topics.ucgis.org/CV-05-035
+[gds5]: https://geographicdata.science/book/notebooks/05_choropleth.html
+[dabvpp]: https://www.youtube.com/watch?v=niRHJxb4PQM&ab_channel=DanielArribas-Bel
+[gds6]: https://geographicdata.science/book/notebooks/06_spatial_autocorrelation.html
+[gds7]: https://geographicdata.science/book/notebooks/07_local_autocorrelation.html
+[gds8]: https://geographicdata.science/book/notebooks/08_point_pattern_analysis.html
+[gds10]: https://geographicdata.science/book/notebooks/10_clustering_and_regionalization.html
+[ds66]: https://www.spatialanalysisonline.com/HTML/index.html?deterministic_interpolation_me.htm
+[ds67]: https://www.spatialanalysisonline.com/HTML/index.html?geostatistical_interpolation_m.htm
+[ds42]: https://www.spatialanalysisonline.com/HTML/index.html?areal_interpolation.htm
+[tob]: https://pysal.org/tobler/tutorial.html
+[dabpc]: https://www.youtube.com/watch?v=u5sz1PVeJMo&list=PLaYT7Y2aK2d6vs3h38jnjrTEpSS7VYLwU&index=20&ab_channel=DanielArribas-Bel
 
 
 			  				  
