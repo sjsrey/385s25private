@@ -1,0 +1,97 @@
+project:
+  type: website
+
+website:
+  title: "Geography 385: Spatial Data Analysis"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Lectures"
+      - text: "References"
+        href: references.qmd
+    right:
+      - text: "About"
+        href: about.qmd
+  sidebar:
+    style: floating
+    collapse-level: 1
+    contents:
+    - section: "Weeks"
+      contents:
+        - section: "Week 1: 8-26, 8-28"
+          contents:
+            - lectures/week01/index.qmd
+            - studio/week01/index.qmd
+        - section: "Week 2: 9-04"
+          contents:
+            - Labor Day Holiday
+            - studio/week02/index.qmd
+        - section: "Week 3: 9-09, 9-11"
+          contents:
+            - lectures/week03/index.qmd
+            - studio/week03/index.qmd
+        - section: "Week 4: 9-16, 9-23"
+          contents:
+            - lectures/week04/lecture_area.qmd
+            - studio/week04/index.qmd
+        - section: "Week 5: 9-23, 9-25"
+          contents:
+            - lectures/week05/choro.qmd
+            - studio//week05/index.qmd
+        - section: "Week 6: 9-30, 10-02"
+          contents:
+            - lectures//week06/spatial_weights.qmd
+            - studio/week06/peer1.qmd
+        - section: "Week 7: 10-07, 10-09"
+          contents:
+            - lectures/week07/global.qmd
+            - studio/week07/global.qmd
+        - section: "Week 8: 10-14, 10-16"
+          contents:
+            - lectures/week08/local.qmd
+            - studio/week08/local.qmd
+        - section: "Week 9: 10-21, 10-23"
+          contents:
+            - lectures/week09/regionalization.qmd
+            - studio/week09/peer2.qmd
+        - section: "Week 10: 10-27, 20-30"
+          contents:
+            - lectures/week10/point-patterns.qmd
+            - studio/week10/index.qmd
+        - section: "Week 11: 11-04, 11-06"
+          contents:
+            - lectures/week11/centrography.qmd
+            - lectures/week11/quadrat.qmd
+        - section: "Week 12: 11-11, 11-13"
+          contents:
+            - 11-11 Veteran's Day (Holiday)
+            - text: Studio 11 Peer Evaluation 3
+              href: https://sdsu.instructure.com/courses/157862/assignments/1436064
+        - section: "Week 13: 11-18, 11-20"
+          contents:
+            - lectures/week13/nn.qmd
+            - text: Computational Essay Help Session
+        - section: "Week 14: 11-25"
+          contents:
+            - lectures/week14/distancemethods.qmd
+            - text: Thanksgiving Holiday (no class 11-27)
+        - section: "Week 15: 12-02, 12-04"
+          contents:
+            - lectures/week14/distancemethods.qmd
+            - text: Studio 12 Project Help
+              href: https://sdsu.instructure.com/courses/157862/assignments/1445786        
+    - section: "Resources"
+      contents:
+        - text: "Syllabus"
+          href: syllabus.qmd
+
+format:
+  html:
+    css: styles/custom.scss
+    toc: true
+    toc-depth: 3
+    code-fold: true
+    code-tools: true
+
+bibliography: 385.bib
