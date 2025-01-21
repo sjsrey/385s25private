@@ -1,0 +1,210 @@
+[
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Anselin, L. 1999. “Interactive Techniques and Exploratory Spatial Data Analysis.” In Geographical Information Systems: Principles, Techniques, Management and Applications, edited by P. A. Longley, M. Goodchild, D. J. Maguire, and D. W. Rhind, 251–64.\n\n\nArribas-Bel, Daniel, Thomas de Graaff, and Sergio J. Rey. 2017. “Looking at John Snow’s Cholera Map from the Twenty First Century: A Practical Primer on Reproducibility and Open Science.” In Regional Research Frontiers - Vol. 2: Methodological Advances, Regional Systems Modeling and Open Sciences, edited by Randall Jackson and Peter Schaeffer, 283–306. Cham: Springer International Publishing. https://doi.org/10.1007/978-3-319-50590-9_17.\n\n\nHarrower, Mark, and Cynthia A. Brewer. 2003. “ColorBrewer.org: An Online Tool for Selecting Colour Schemes for Maps.” The Cartographic Journal 40 (1): 27–37. https://doi.org/10.1179/000870403235002042.\n\n\nHunter, John D. 2007. “Matplotlib: A 2D Graphics Environment.” Computing in Science & Engineering 9 (3): 90–95. https://doi.org/10.1109/MCSE.2007.55.\n\n\nKnaap, Elijah, Wei Kang, Sergio Rey, Levi John Wolf, Renan Xavier Cortes, and Su Han. 2019. “Geosnap: The Geospatial Neighborhood Analysis Package.” Zenodo. https://doi.org/10.5281/ZENODO.3526163.\n\n\nRey, Sergio J., Luc Anselin, Pedro Amaral, Dani Arribas-Bel, Renan Xavier Cortes, James David Gaboardi, Wei Kang, et al. 2022. “The PySAL Ecosystem: Philosophy and Implementation.” Geographical Analysis 54 (3): 467–87. https://doi.org/10.1111/gean.12276.\n\n\nTukey, J. W. 1977. Exploratory Data Analysis. New York: Addison-Wesley."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Course Home",
+    "section": "",
+    "text": "This course will take you through 15 weeks of lectures and hands-on studios, designed to give you practical experience in Spatial Data Analysis .\nUse the sidebar to navigate through the weekly content.\n\n\nPlease refer to the course syllabus for detailed information on course structure, grading, and policies."
+  },
+  {
+    "objectID": "index.html#syllabus",
+    "href": "index.html#syllabus",
+    "title": "Course Home",
+    "section": "",
+    "text": "Please refer to the course syllabus for detailed information on course structure, grading, and policies."
+  },
+  {
+    "objectID": "syllabus.html#class-meetings",
+    "href": "syllabus.html#class-meetings",
+    "title": "Geography 385 Spatial Data Analysis",
+    "section": "Class Meetings",
+    "text": "Class Meetings\n\n\n\nMeeting\nLocation\nTime\n\n\n\n\nLecture\nGMCS 307\nTue & Thu 2:00 - 3:15pm",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#instructor",
+    "href": "syllabus.html#instructor",
+    "title": "Geography 385 Spatial Data Analysis",
+    "section": "Instructor",
+    "text": "Instructor\n\n\n\nName\nOffice hours\nLocation\n\n\n\n\nSergio Rey\nMon 3:00 - 4:00pm (by appointment)\nPSFA 361G",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#introduction",
+    "href": "syllabus.html#introduction",
+    "title": "Geography 385 Spatial Data Analysis",
+    "section": "Introduction",
+    "text": "Introduction\nWelcome to GEOG 385: Spatial Data Analysis!\nThe purpose of this course is to introduce you to methods of spatial data analysis. The focus is on both the conceptual and applied aspects of spatial statistical methods. We will place particular emphasis on the computational aspects of Exploratory Spatial Data Analysis (ESDA) methods for diﬀerent types of spatial data with a particular focus on point processes and lattice (areal unit) data. Throughout the course you will gain valuable hands-on experience with several specialized software packages for spatial data analysis. The overriding goal of the course is for you to acquire familiarity with the fundamental methodological and operational issues in the statistical analysis of geographic information and the ability to extend these methods in your own research.\nThe course takes an explicitly computational thinking approach to its pedagogy. Students are introduced to computational concepts and tools that are increasingly important to research that engages with geospatial data. By adopting these tools, students acquire a deeper engagement with, and mastery of, the substantive concepts. Put differently, students will learn to code. But this is a means to the end goal: students will code to learn spatial data analysis.\nIn the scope of a 15-week semester course we can only introduce a handful of the key concepts and methods relevant to the field of spatial data analysis. As such, the course is not intended as an exhaustive treatment. Instead, the goal is that students will acquire an understanding of the more common and useful methods and practices, and use the course as an entry point for further engagement with the field.",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#prerequisites",
+    "href": "syllabus.html#prerequisites",
+    "title": "Geography 385 Spatial Data Analysis",
+    "section": "Prerequisites",
+    "text": "Prerequisites\n\nGEOG 101 or GEOG 102\nSTAT 250 or comparable course in statistics.\n\nAll students are required to complete the prerequisite assessment quiz before 2024-08-28 3:30pm.",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#computational-learning",
+    "href": "syllabus.html#computational-learning",
+    "title": "Geography 385 Spatial Data Analysis",
+    "section": "Computational Learning",
+    "text": "Computational Learning\nWe will be using open source geospatial software throughout the course together with Jupyter Notebooks, and Python as our scripting language.\nAll software for the course will be made available through JupyterHub, a web-based framework. Students wishing to install these materials on their own machines will be given instructions to do so, but this is not required.",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#readings",
+    "href": "syllabus.html#readings",
+    "title": "Geography 385 Spatial Data Analysis",
+    "section": "Readings",
+    "text": "Readings\nAll required readings are available through the links listed below. Assigned readings should be completed before the date listed in the schedule (see below). Readings are a critical part of the discussions we will hold in class, and therefore being prepared for class means having completed the readings and thought about the content. It will be difficult to do well in this course without having completed the readings.\n\n\n\nAbbrevation\nSource\n\n\n\n\nGDA\nTenkanen, H., V. Heikinheimo, D. Whipp (2023) Python for Geographic Data Analysis. CRC Press.\n\n\nGDS\nRey, S.J., D. Arribas-Bel, L.J. Wolf (2023) Geographic Data Science with Python. CRC Press.",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#schedule-planned",
+    "href": "syllabus.html#schedule-planned",
+    "title": "Geography 385 Spatial Data Analysis",
+    "section": "Schedule (Planned)",
+    "text": "Schedule (Planned)\n\n\n\n\n\n\n\n\n\n\n\n\nWeek\nDate\nTopic\nReadings\nExercise\nQuiz\n\n\n\n\n1\n01-21\nIntroduction\n\n\nPrerequisite\n\n\n\n01-23\nSpatial Data Structures\n\n\n\n\n\n2\n01-28\nCoordinate Reference Systems\n\nOne out\n1\n\n\n\n01-30\nDistances\n\n\n\n\n\n3\n02-04\nProximity Relations\n\n\n2\n\n\n\n02-06\nSpatial Graphs\n\n\n\n\n\n4\n02-11\nVisualization\n\n\n3\n\n\n\n02-13\nGeovisualization\n\n\n\n\n\n5\n02-18\nClassification Schemes\n\nOne due\n4\n\n\n\n02-20\nChoropleth Mapping\n\nTwo out\n\n\n\n6\n02-25\nPoint Pattern Visualization\n\n\n5\n\n\n\n02-27\nHeat Maps\n\n\n\n\n\n7\n03-04\nSpatial Autocorrelation\n\n\n6\n\n\n\n03-06\n\n\n\n\n\n\n8\n03-11\nGlobal Autocorrelation\n\nTwo due\n7\n\n\n\n03-13\n\n\nExam 1\n\n\n\n9\n03-18\nLocal Autocorrelation\n\nThree out\n8\n\n\n\n03-20\n\n\n\n\n\n\n10\n03-25\nNearest Neighbor Tests\n\n\n9\n\n\n\n03-27\n\n\n\n\n\n\nSpring Break\n03-31\n\n\n\n\n\n\n11\n04-08\nDistance Based Tests\n\n\n10\n\n\n\n04-10\n\n\n\n\n\n\n12\n04-15\nClustering Point Patterns\n\nThree due\n11\n\n\n\n04-17\n\n\nFour out\n\n\n\n13\n04-22\nIntegration of Points and Polygon Data\n\n\n12\n\n\n\n04-24\n\n\n\n\n\n\n14\n04-29\nChange of Support: Points to Polygons\n\n\n13\n\n\n\n05-01\n\n\n\n\n\n\n15\n05-06\nChange of Support: Polygons to Points\n\n\n14\n\n\n\n05-08\n\n\nFour due\n\n\n\n\n05-13\n\n\nExam 2 (1pm)",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#grading",
+    "href": "syllabus.html#grading",
+    "title": "Geography 385 Spatial Data Analysis",
+    "section": "Grading",
+    "text": "Grading\nGEOG 385 uses specification grading in evaluating student work and in determining your final course grade. The quality and quantity of your work will determine your course grade. The acceptable level of quality demonstrates competency in the concepts and methods covered in the course.\nThere is a two-step process for determination of your final course grade at the end of the quarter:\n\nUsing your quizzes and exercises, your base grade is determined.\nUsing your final exam results, determine if your base grade includes a \"plus\", \"minus\", or level drop to form the course grade.\n\n\nBase Grade\nFor Step 1, the base grade is determined using the following specification:\nThresholds for base grade:\n\n\n\nItem\nA\nB\nC\nD\n\n\n\n\nQuizzes\n12\n10\n8\n6\n\n\nExercises\n4\n3\n2\n1\n\n\n\nYou must pass the both thresholds to obtain the base grade.\n\n\nFinal Grade\nFor Step 2, your final course grade is determined as follows:\n\nExam average 90 or above, “+” added to base grade\nExam average 75-89, no adjustment\nExam average 60-74, “-” added to base grade\nExam average &lt;60, one grade below base grade\n\nExamples of Final Grade Determination:\n\n\n\nExam\nA\nB\nC\nD\n\n\n\n\n90+\nA\nB+\nC+\nD+\n\n\n75-89\nA\nB\nC\nD\n\n\n60-74\nA-\nB-\nC-\nD-\n\n\n&lt;60\nB\nC\nD\nF\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nNote that SDSU grading policy does not allow A+ grades. However, if you have a base grade of A and score 90+ on your exam average, you are eligible for a letter of recommendation from the professor.",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#quizzes",
+    "href": "syllabus.html#quizzes",
+    "title": "Geography 385 Spatial Data Analysis",
+    "section": "Quizzes",
+    "text": "Quizzes\nStarting in week two there will be a quiz due before a session that pertains to the background reading that is required before our work in class. Quizzes are graded on a pass/fail basis.",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#studio-participation",
+    "href": "syllabus.html#studio-participation",
+    "title": "Geography 385 Spatial Data Analysis",
+    "section": "Studio Participation",
+    "text": "Studio Participation\nEach Wednesday, we will focus on hands-on exercises that explore the material from lecture. Each student will be assigned to a small group that works together to carry out a set of spatial data analysis tasks. At the end of the session each group will submit a single notebook demonstrating their work.\nEach notebook is graded using a CRN rubric that classifies work with marks of C (\"Demonstrates Competence\"), R (\"Needs Revision\"), or N (\"Not assessable\"):\nOf each notebook the following questions will be asked: Does the work demonstrate that the student understands the concepts? Does the work demonstrate competence and meet the expectations outlined in the exercise?\nIf the answer is \"yes\" to both of the questions, the group passes the hurdle for that studio.\nIf the initial submission does not clear the hurdle, then a second question is asked: Is there evidence of partial understanding of the concepts? If the answer to this question is \"Yes\" the group can exchange one token (from each student) to attempt a revision of their work. If the answer is \"No\", the group does not clear the hurdle for this exercise and will not have the opportunity to revise their work.\nFor our studio sessions on Wednesdays, it is essential that you bring your own device, such as a laptop or tablet. These sessions will involve hands-on activities that require access to software and online resources. Having your own device will allow you to fully participate and engage with the exercises. Please ensure your device is charged and ready to use at the start of each studio session. If you have any concerns about this requirement, please reach out to me in advance so we can make necessary arrangements.",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#computational-essay",
+    "href": "syllabus.html#computational-essay",
+    "title": "Geography 385 Spatial Data Analysis",
+    "section": "Computational Essay",
+    "text": "Computational Essay\nEach student will have the opportunity to write a computational essay using Jupyter notebooks to apply the methods of ESDA to a topic of their choice, approved by the instructor. The essay should demonstrate your ability to analyze spatial data, identify patterns, and interpret the results using ESDA techniques.\n\nInstructions\n\n1. Topic Selection\nSelect a topic of interest that involves spatial data. The topic should be relevant to your field of study or personal interest. Ensure that the data is accessible and suitable for spatial analysis. Submit your topic for approval by the instructor by September 30. If you are unsure about a topic, speak to the professor.\n\n\n2. Data Acquisition\nIdentify and acquire spatial data related to your chosen topic. This may include data from public repositories, government databases, or other reliable sources.\n\n\n3. ESDA Techniques\nApply appropriate ESDA methods such as spatial autocorrelation, clustering, and visualization techniques to explore your data. Use libraries like PySAL, GeoPandas, or others as needed.\n\n\n4. Analysis and Interpretation\nDocument your analysis in a Jupyter notebook. Include clear explanations of the methods used, the rationale behind your choices, and a discussion of your findings. Visualizations should be integrated into the narrative to support your analysis.\n\n\n5. Submission\nSubmit your Jupyter notebook along with a brief (500-word) reflection on what you learned from the analysis and how ESDA techniques enhanced your understanding of the topic. At submission you can indicate whether you wish to present your computational essay during the final period.\n\n\n\n\n\n\nImportant\n\n\n\nYou must demonstrate competency on each of the stages above to have the computational essay count towards your base grade.\n\n\n\n\n\nDeadline\nSubmit your completed essay by December 12, Midnight.",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#final-exam-activity",
+    "href": "syllabus.html#final-exam-activity",
+    "title": "Geography 385 Spatial Data Analysis",
+    "section": "Final Exam Activity",
+    "text": "Final Exam Activity\nOur final exam activity is scheduled for December 18 from 1-3pm. Students who applied to submit their computational essay will present during this period.",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#sec-tokens",
+    "href": "syllabus.html#sec-tokens",
+    "title": "Geography 385 Spatial Data Analysis",
+    "section": "Tokens",
+    "text": "Tokens\nEach student is provided with three tokens at the beginning of the semester.\n\nUsing Tokens\n\nCredit for a reading quiz that was failed (1 token).\nObtaining a one-day extension for an exercise prior to due date (1 token).\nRevising an exercise that was submitted on-time but evaluated as unsatisfactory (2 tokens).\nRequesting a make-up date for an exam (3 tokens scheduled at least 2 weeks before exam date)",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#policies",
+    "href": "syllabus.html#policies",
+    "title": "Geography 385 Spatial Data Analysis",
+    "section": "Policies",
+    "text": "Policies\n\nAccommodations\nIf you are a student with a disability and are in need of accommodations for this class, please contact Student Ability Success Center at (619) 594-6473 as soon as possible. Please know accommodations are not retroactive, and I cannot provide accommodations based upon disability until I have received an accommodation letter from Student Ability Success Center.\n\n\nPrivacy and Intellectual Property\nStudent Privacy and Intellectual Property: The Family Educational Rights and Privacy Act (FERPA) mandates the protection of student information, including contact information, grades, and graded assignments. I will use Canvas to communicate with you, and I will not post grades or leave graded assignments in public places. Students will be notified at the time of an assignment if copies of student work will be retained beyond the end of the semester or used as examples for future students or the wider public. Students maintain intellectual property rights to work products they create as part of this course unless they are formally notified otherwise.\n\n\nAcademic Integrity\nThe SDSU student academic integrity policy lists violations in detail. These violations fall into eight broad areas that include but are not limited to: cheating, fabrication, plagiarism, facilitating academic misconduct, unauthorized collaboration, interference or sabotage, non-compliance with research regulations and retaliation. For more information about the SDSU student academic integrity policy, please see the following: https://sacd.sdsu.edu/student-rights/academic-dishonesty.\n\n\nCode of Conduct\nAs course instructor, I am dedicated to providing a harassment-free learning experience for all students, regardless of gender, sexual orientation, disability, physical appearance, body size, race, religion, or choice of operating system. All course participants are expected to show respect and courtesy to other students throughout the semester. As a learning community we do not tolerate harassment of participants in any form.\n\nAll communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery are not appropriate in this course.\nBe kind to others. Do not insult or put down other students. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for this course.\nStudents violating these rules may be asked to leave the course, and their violations will be reported to the SDSU administration.\n\nThis code of conduct is an adaptation of the SciPy 2018 Code of Conduct.",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Geography 385 Spatial Data Analysis is an introduction to exploratory spatial data analysis taught by Professor Sergio Rey at San Diego State University."
+  },
+  {
+    "objectID": "syllabus.html#exercises",
+    "href": "syllabus.html#exercises",
+    "title": "Geography 385 Spatial Data Analysis",
+    "section": "Exercises",
+    "text": "Exercises\nFour exercises are assigned on the dates listed in the syllabus. These exercises are evaluated based on whether they demonstrate a sufficient understanding of the covered content. When an assignment is deemed satisfactory, it indicates that the student has effectively showcased their comprehension of the subject matter.",
+    "crumbs": [
+      "Home",
+      "Resources",
+      "Syllabus"
+    ]
+  }
+]
