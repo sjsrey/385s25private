@@ -98,45 +98,6 @@ completed the readings.
 
 ## Schedule (Planned)
 
-<!-- This is a comment 
-
-| Week | Date  | Topic                               | Reading           | Due                                                 |
-|------|-------|-------------------------------------|-------------------|-----------------------------------------------------|
-| 1    | 1-21  | Introduction                        |                   | [Prerequisite Quiz][quiz]                           |
-|      | 1-23  | Jupyter                             |                   |                                                     |
-| 2    | 1-28  | Labor Day (Holiday)                 |                   |                                                     |
-|      | 1-30  | Pandas                              | [GDA 3][gda3]     |                                                     |
-| 3    | 2-04  | Spatial Data Analysis               | [GDS 1][gds1]     |                                                     |
-|      | 2-06  | Geopandas                           | [GDA 6][gda6]     |                                                     |
-| 4    | 2-11  | Area Unit Data                      | [GDS 3][gds3]     |                                                     |
-|      | 2-13  | Geoprocessing: Area Units           | [GDA 6][gda6]     |                                                     |
-| 5    | 2-18  | Visualizing Area Unit Data          | [GDS 5][gds5]     | [Python Primer][pp]                                 |
-|      | 2-20  | Choropleth Mapping                  |                   |                                                     |
-| 6    | 2-25  | Spatial Weights                     | [GDS 4][gds4]     | Topic Approval                                      |
-|      | 2-27 | Neighbor Relations                  |                   | Peer Evaluation 1                                   |
-| 7    | 3-04 | Global Spatial Autocorrelation      | [GDS 6][gds5]     |                                                     |
-|      | 3-06 | Testing for Clustering              |                   |                                                     |
-| 8    | 3-11 | Local Spatial Autocorrelation       | [GDS 7][gds6]     | Project Proposal                                    |
-|      | 3-13 | Cluster Detection                   |                   |                                                     |
-| 9    | 3-18 | Clustering Area Unit Data           | [GDS 10][gdsreg]  |                                                     |
-|      | 3-20 | Region Building                     |                   | Peer Evaluation 2                                   |
-| 10   | 3-25 | Point Pattern Data                  | [GDS 8.1][gds8.1] |                                                     |
-|      | 3-27 | Geoprocessing: Points               |                   |                                                     |
-| 11   | 3-04 | Centrography                        | [GDS 8.2][gds8.2] | Data Visualization                                  |
-|      | 11-06 | Quadrat Analysis                    |                   |                                                     |
-| 12   | 11-11 | Veteran's Day (Holiday)             |                   |                                                     |
-|      | 11-13 | NARSC                               |                   | Peer Evaluation 3                                   |
-| 13   | 11-18 | Nearest Neighbor Tests              | [GDS 8.3][gds8.3] |                                                     |
-|      | 11-20 | Project Help                        |                   | Data Analysis                                       |
-| 14   | 11-25 | Distance Based Statistics           |                   |                                                     |
-|      | 11-27 | Thanksgiving (Holiday)              |                   |                                                     |
-| 15   | 12-02 | Distance Based Statistics           |                   |                                                     |
-|      | 12-04 | Project Help                        |                   | [Studio 12 Help][s12]                               |
-| 16   | 12-09 | Studio                              |                   | [Draft (12/8)][draft],  Studio 13 Peer Evaluation 4 |
-|      | 12-11 | Next steps in spatial data analysis |                   |                                                     |
-| 17   | 12-18 | Final Presentations (1-3pm)         |                   | Computational Notebook                              |
--->
-
 |         Week | Date  | Topic                              | Readings                | Exercise  |         Quiz |
 |-------------:|:------|:-----------------------------------|:------------------------|-----------|-------------:|
 |            1 | 01-21 | Introduction                       |                         |           |              |
@@ -254,7 +215,7 @@ at the end of the quarter:
 
 1.  Using your quizzes and  exercises, your **base grade** is
     determined.
-2.  Using your final exam results, determine if your base grade includes
+2.  Using your  exam results, determine if your base grade includes
     a \"plus\", \"minus\", or level drop to form the course grade.
 
 
