@@ -145,7 +145,7 @@ completed the readings.
 [VIZ]: https://guides.library.jhu.edu/datavisualization/home#s-lg-box-25364137
 [bokgv]: https://gistbok-topics.ucgis.org/CV-05-035
 [pg]: https://sdsu.instructure.com/courses/166767/pages/pysal-geoprocessing
-[ps]:  https://sdsu.instructure.com/courses/166767/pages/pysal-geoprocessing
+[ps]:  https://sdsu.instructure.com/courses/166767/pages/pysal-weights
 [gds5]: https://geographicdata.science/book/notebooks/05_choropleth.html
 [dabvpp]: https://www.youtube.com/watch?v=niRHJxb4PQM&ab_channel=DanielArribas-Bel
 [gds6]: https://geographicdata.science/book/notebooks/06_spatial_autocorrelation.html
