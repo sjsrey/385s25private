@@ -97,40 +97,40 @@ completed the readings.
 
 ## Schedule (Planned)
 
-|         Week | Date  | Topic                              | Readings                | Exercise  |         Quiz |
-|-------------:|:------|:-----------------------------------|:------------------------|-----------|-------------:|
-|            1 | 01-21 | Introduction                       |                         |           |              |
-|              | 01-23 | Computational Resources            | [RAW 2][gds2], [JL][jl] |           | Prerequisite |
-|            2 | 01-28 | Exploratory Spatial Data  Analysis | [RAW 1][gds1]           | One out   |            1 |
-|              | 01-30 | Spatial Data Models                | [RAW 3][gds3]           |           |              |
-|            3 | 02-04 | Coordinate Reference Systems       | [THW 5.3][gda53]        |           |            2 |
-|              | 02-06 | Distances                          | [CA21][smdistance]      |           |              |
-|            4 | 02-11 | [PySAL Geoprocessing][pg]          | [RAW 4][gds4]           |           |            3 |
-|              | 02-13 | [PySAL Spatial Graphs][ps]         | [RAW 4][gds4]           |           |            4 |
-|            5 | 02-18 | Visualization                      | [VIZ][VIZ]              | One due   |            5 |
-|              | 02-20 | Geovisualization                   | [BOKGV][bokgv]          | Two out   |              |
-|            6 | 02-25 | Classification Schemes             | [RAW 5][gds5]           |           |            6 |
-|              | 02-27 | Choropleth Mapping                 | [RAW 5][gds5]           |           |              |
-|            7 | 03-04 | Point Pattern Visualization        | [DABVPP][dabvpp]        |           |            7 |
-|              | 03-06 | Kernel Density Estimation          | [DABVPP][dabvpp]        |           |            8 |
-|            8 | 03-11 | Review                             |                         | Two due   |              |
-|              | 03-13 | *Exam 1*                           |                         |           |              |
-|            9 | 03-18 | Global Autocorrelation             | [RAW 6][gds6]           | Three out |            9 |
-|              | 03-20 | Global Autocorrelation Tests       | [RAW 6][gds6]           |           |              |
-|           10 | 03-25 | Local Autocorrelation              | [RAW 7][gds7]           |           |           10 |
-|              | 03-27 | Local Autocorrelation Tests        | [RAW 7][gds7]           |           |              |
-| Spring Break | 03-31 |                                    |                         |           |              |
-|           11 | 04-08 | Nearest Neighbor Relations         | [RAW 8][gds8]           |           |           11 |
-|              | 04-10 | Nearest Neighbor Tests             | [RAW 8][gds8]           |           |              |
-|           12 | 04-15 | Nearest Neighbor Distances         | [RAW 8][gds8]           | Three due |           12 |
-|              | 04-17 | Distance Based Tests               | [RAW 8][gds8]           | Four out  |              |
-|           13 | 04-22 | Clustering Point Patterns          | [DABPC][dabpc]          |           |           13 |
-|              | 04-24 | Regionalization                    | [RAW 10][gds10]         |           |              |
-|           14 | 04-29 | Interpolation Point Based          | [DS6.6][ds66]           | 13        |           14 |
-|              | 05-01 | Kriging                            | [DS6.7][ds67]           |           |              |
-|           15 | 05-06 | Interpolation Area Based           | [DS4.2][ds42]           |           |           15 |
-|              | 05-08 | Review                             |                         | Four due  |              |
-|              | 05-13 | *Exam 2 (1pm)*                     |                         |           |              |
+|         Week | Date  | Topic                               | Readings                | Exercise  |         Quiz |
+|-------------:|:------|:------------------------------------|:------------------------|-----------|-------------:|
+|            1 | 01-21 | Introduction                        |                         |           |              |
+|              | 01-23 | Computational Resources             | [RAW 2][gds2], [JL][jl] |           | Prerequisite |
+|            2 | 01-28 | Exploratory Spatial Data  Analysis  | [RAW 1][gds1]           | One out   |            1 |
+|              | 01-30 | Spatial Data Models                 | [RAW 3][gds3]           |           |              |
+|            3 | 02-04 | Coordinate Reference Systems        | [THW 5.3][gda53]        |           |            2 |
+|              | 02-06 | Distances                           | [CA21][smdistance]      |           |              |
+|            4 | 02-11 | [PySAL Geoprocessing][pg]           | [RAW 4][gds4]           |           |            3 |
+|              | 02-13 | [PySAL Spatial Graphs][ps]          | [RAW 4][gds4]           |           |            4 |
+|            5 | 02-18 | Visualization                       | [VIZ][VIZ]              | One due   |            5 |
+|              | 02-20 | Geovisualization                    | [BOKGV][bokgv]          | Two out   |              |
+|            6 | 02-25 | Classification Schemes              | [RAW 5][gds5]           |           |            6 |
+|              | 02-27 | Choropleth Mapping                  | [RAW 5][gds5]           |           |              |
+|            7 | 03-04 | Point Pattern Visualization         | [DABVPP][dabvpp]        |           |            7 |
+|              | 03-06 | Kernel Density Estimation           | [DABVPP][dabvpp]        |           |            8 |
+|            8 | 03-11 | Review                              |                         | Two due   |              |
+|              | 03-13 | *Exam 1*                            |                         |           |              |
+|            9 | 03-18 | Global Autocorrelation              | [RAW 6][gds6]           | Three out |            9 |
+|              | 03-20 | Global Autocorrelation: Join Counts | [RAW 6][gds6]           |           |              |
+|           10 | 03-25 | Global Autocorrelation: Moran's I   | [RAW 6][gds6]           |           |           10 |
+|              | 03-27 | AAG (No Class)                      |                         |           |              |
+| Spring Break | 03-31 |                                     |                         |           |              |
+|           11 | 04-08 | Local Autocorrelation               | [RAW 7][gds7]           |           |           11 |
+|              | 04-10 | Local Autocorrelation Tests         | [RAW 7][gds7]           |           |              |
+|           12 | 04-15 | Point Patterns                      | [RAW 8][gds8            |           |           12 |
+|              | 04-17 | Nearest Neighbor Relations          | [RAW 8][gds8]           |           |              |
+|           13 | 04-22 | Nearest Neighbor Tests              | [RAW 8][gds8]           | Three due |           13 |
+|              | 04-24 | Distance Based Tests                | [RAW 8][gds8]           | Four out  |              |
+|           14 | 04-29 | Clustering Point Patterns           | [RAW 8][gds8]           |           |           14 |
+|              | 05-01 | Interpolation Point Based           | [DS6.6][ds66]           |           |              |
+|           15 | 05-06 | Interpolation Area Based            | [DS4.2][ds42]           |           |           15 |
+|              | 05-08 | Review                              |                         | Four due  |              |
+|              | 05-13 | *Exam 2 (1pm)*                      |                         |           |              |
 
 
 
